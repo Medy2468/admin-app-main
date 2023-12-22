@@ -41,3 +41,17 @@ Dans phpMyAdmin
 
 ![BaseDonnee](https://github.com/Medy2468/admin-app-main/assets/95325770/d9555270-91f8-441e-9117-ba0c7a57bee3)
 
+# Comment faire la configuration de Docker Compose
+- Il faut d'abord cloner le projet dans la machine local
+- Puis se rassurer que notre environnement Docker et Docker Compose est bien installé
+- Ensuite exécuter la commande `docker compose up -d`.
+  
+![compose_up](https://github.com/Medy2468/admin-app-main/assets/95325770/21e6f9c9-e82f-4b5f-9b72-878f1e82cf50)
+
+- Le volume créé dans Docker Desktop
+
+  ![Volume_Docker](https://github.com/Medy2468/admin-app-main/assets/95325770/161f0cd7-879e-4f6e-a8bc-9e7e7a92256d)
+
+
+
+  
